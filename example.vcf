@@ -1,0 +1,7 @@
+BEGIN:VCARD
+ VERSION:4.0
+ FN:Sarah Connor
+ N:Connor;Sarah;;;
+ EMAIL;TYPE=work:sarah.connort@example.com
+ URL:https://www.example.com
+ END:VCARD
